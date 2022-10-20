@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding-top: 30px;
+  
+
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: #001ff2;
+  position: absolute;
+  width: 1500px;
+  height: 70px;
+  left: 250px;
+  top: 0px
+}
+.nav-menu li {
+  padding: 0 6rem;
+  text-decoration: none;
+  
+  
+}
+.fa-Ellipse{
+    margin-left: 0.5rem;
+    font-size: 1.8rem;
+  }

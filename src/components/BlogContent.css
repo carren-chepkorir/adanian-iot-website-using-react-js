@@ -1,0 +1,184 @@
+.Blog-section {
+  width: 100%;
+  left: 100%;
+}
+
+.blog-heading h2 {
+  position: absolute;
+  width: 256px;
+  height: 44px;
+  left: 628px;
+  top: 74px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #001ff2;
+}
+.blog-content p {
+  position: absolute;
+  width: 769px;
+  height: 84px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+  left: 500px;
+  margin-top: 70px;
+}
+.Info-heading h1 {
+  position: absolute;
+  width: 153px;
+  height: 36px;
+  left: 400px;
+  top: 350px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #5000ff;
+}
+.info p {
+  position: absolute;
+  width: 268px;
+  height: 168px;
+  left: 350px;
+  top: 380px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 15px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  color: #000000;
+}
+.Info1-heading h2 {
+  position: absolute;
+  width: 147px;
+  height: 36px;
+  left: 850px;
+  top: 350px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #5000ff;
+}
+.info2 p {
+  position: absolute;
+  width: 285px;
+  height: 144px;
+  left: 830px;
+  top: 380px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  color: #000000;
+}
+.Info2-heading h1 {
+  position: absolute;
+  width: 173px;
+  height: 36px;
+  left: 1350px;
+  top: 350px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #5000ff;
+}
+.info3 p {
+  position: absolute;
+  width: 304px;
+  height: 168px;
+  left: 1328px;
+  top: 380px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  color: #000000;
+}
+.comment p {
+  position: absolute;
+  width: 250px;
+  height: 48px;
+  left: 830px;
+  top: 524px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #2a3d7b;
+}
+.sub-head h1 {
+  position: absolute;
+  width: 598px;
+  height: 88px;
+  left: 350px;
+  top: 678px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  color: #2a3d7b;
+}
+.sub-head p {
+  position: absolute;
+  width: 449px;
+  height: 112px;
+  left: 350px;
+  top: 814px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #3b3e7e;
+  text-align: justify;
+
+}
+.sub-head-image {
+  position: absolute;
+  width: 660px;
+  height: 392px;
+  left: 1034px;
+  top: 604px;
+}

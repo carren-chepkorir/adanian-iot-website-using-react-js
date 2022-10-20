@@ -1,0 +1,29 @@
+.solutions{
+   background-color: whitesmoke;
+   height: 100%;
+   width: 100%;
+   min-height: 500px;
+}
+
+.solution-heading p{
+   font-family: 'Circular Std';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 44px;
+   margin-top: 100px;
+   text-align: center;
+}
+.solution-content{
+display: grid;
+padding: 15px;
+grid-template-columns: repeat(auto-fit,minmax(25rem,1fr));
+}
+.card{
+   position: relative;
+   border: 3px solid white;
+}
+img{
+   height: 100%;
+   width: 100%;
+}
